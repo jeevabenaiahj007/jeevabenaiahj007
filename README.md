@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [ADHER GPT](https://github.com/jeevabenaiahj007/adher)
 
-- 🌱 I’m currently learning **Website creation and launching it**
+- 🌱 I’m currently learning **Website creation and App creation**
 
 - 💬 Ask me about **AI Foundations, Ardino IDE**
 
