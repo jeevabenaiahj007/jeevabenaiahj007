@@ -1,5 +1,3 @@
-
-## Header
 > Editing this section in the inspector.
 Hi, I'm **jeevabenaiahj007**. This README is tuned for **student** with a GitHub visual system.
 <p align="center">
@@ -14,7 +12,7 @@ Hi, I'm **jeevabenaiahj007**. This README is tuned for **student** with a GitHub
     <img src="https://www.gitskins.com/api/section/about?username=jeevabenaiahj007&theme=github-dark" alt="jeevabenaiahj007 about section" />
   </picture>
 </p>
-## About Me
+
 Shapes the short profile story and positioning.
 <p align="center">
   <picture>
@@ -28,8 +26,7 @@ Shapes the short profile story and positioning.
     <img src="https://www.gitskins.com/api/section/projects?username=jeevabenaiahj007&theme=github-dark" alt="jeevabenaiahj007 projects section" />
   </picture>
 </p>
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=jeevabenaiahj007&theme=github-dark&mode=light" />
@@ -42,8 +39,7 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
     <img src="https://www.gitskins.com/api/section/stats?username=jeevabenaiahj007&theme=github-dark" alt="jeevabenaiahj007 stats section" />
   </picture>
 </p>
-## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=jeevabenaiahj007&theme=github-dark&mode=light" />
