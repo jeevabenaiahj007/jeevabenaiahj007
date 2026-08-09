@@ -1,8 +1,3 @@
-# jeevabenaiahj007
-
-> Learning velocity and project potential.
-
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
 ## Header
 > Editing this section in the inspector.
